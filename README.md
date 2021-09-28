@@ -11,9 +11,9 @@ Lectures
 Concepts and methods
 --------------------
   1. [Is there a role for macroeconomic policy?](Cours/ECN7059_1.pdf)
-  2. Ramsey approach to policy design
-  3. Mirrleesian approach to policy design in a static environment
-  4. Mirrleesian approach to policy design in a dynamic environment
+  2. [Ramsey approach to policy design](Cours/ECN7059_2.pdf)
+  3. [Mirrleesian approach to policy design in a static environment](Cours/ECN7059_3.pdf)
+  4. [Mirrleesian approach to policy design in a dynamic environment](Cours/ECN7059_4.pdf)
   5. Design of rules with discretion
 
 Topics
