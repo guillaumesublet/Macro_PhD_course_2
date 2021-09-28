@@ -6,7 +6,7 @@ The objective of this course is to equip students with knowledge and techniques 
 Lectures
 --------
 **Background**
-  - Chari Kehoe (2006) ''Modern Macroeconomics in Practice: How Theory is Shaping Policy’’ Journal of Economic Perspectives [link](https://www.aeaweb.org/articles?id=10.1257/jep.20.4.3)
+  - Chari Kehoe (2006) ''Modern Macroeconomics in Practice: How Theory is Shaping Policy’’ Journal of Economic Perspectives ([link](https://www.aeaweb.org/articles?id=10.1257/jep.20.4.3))
 
 Concepts and methods
 --------------------
