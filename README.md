@@ -10,7 +10,7 @@ Lectures
 
 Concepts and methods
 --------------------
-  1. Is there a role for macroeconomic policy?
+  1. [Is there a role for macroeconomic policy?](Cours/ECN_7059_1.pdf)
   2. Ramsey approach to policy design
   3. Mirrleesian approach to policy design in a static environment
   4. Mirrleesian approach to policy design in a dynamic environment
