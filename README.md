@@ -1,7 +1,12 @@
 # Macro_PhD_course_2
 Course on the optimal design of macroeconomic policy.
 
-The objective of this course is to equip students with knowledge and techniques that will allow them to develop their research in macroeconomics. This course focuses on the design of macroeconomic policy and its quantitative evaluation. The course starts with the Ramsey and Mirrleesian theories for the design of economic policy. It then covers the design of rules with applications to the design of fiscal and monetary rules. The quantitative application of these theories is studied with numerical techniques from [QuantEcon](https://quantecon.org/lectures/).
+The objective of this course is to equip students with knowledge and techniques that will allow them to develop their research in macroeconomics. This course focuses on the design of macroeconomic policy and its quantitative evaluation. The course starts with the Ramsey and Mirrleesian theories of the design of economic policy. It then covers the design of rules with applications to the design of fiscal and monetary rules. The course also presents numerical methods to study the quantitative implications of the optimal reform of macroeconomic policies.
+
+
+[QuantEcon](https://quantecon.org/lectures/).
+
+Evaluation: the student is evaluated based on a problem set and a midterm exam for the first half of the course. The second half covers topics to which tools from the first half have been applied. The evaluations is based on the replication of a paper, the presentation of two papers.
 
 Lectures
 --------
@@ -20,3 +25,4 @@ Concepts and methods
 
 Topics
 ------
+Students choose three papers, two that they present and one that they replicate. 
