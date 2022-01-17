@@ -17,8 +17,8 @@ Lectures
 **Background**
   - Chari Kehoe (2006) ''Modern Macroeconomics in Practice: How Theory is Shaping Policy’’ Journal of Economic Perspectives ([link](https://www.aeaweb.org/articles?id=10.1257/jep.20.4.3))
 
-Concepts and methods
---------------------
+Part I: Concepts and methods
+----------------------------
   1. [Is there a role for macroeconomic policy?](Cours/ECN7059_1.pdf)
   2. [Ramsey approach to policy design](Cours/ECN7059_2.pdf)
   3. [Mirrleesian approach to policy design in a static environment](Cours/ECN7059_3.pdf)
@@ -28,6 +28,6 @@ Concepts and methods
   7. [The new keynesian model](Cours/ECN7059_7.pdf)
   8. [Optimal monetary policy](Cours/ECN7059_8.pdf)
 
-Topics
-------
-Students choose three papers, two that they present and one that they replicate. 
+Part II: Topics
+---------------
+Students choose three papers, two that they present and one that they replicate from a list of paper that varies from year to year.
