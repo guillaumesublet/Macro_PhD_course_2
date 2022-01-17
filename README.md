@@ -23,9 +23,9 @@ Concepts and methods
   2. [Ramsey approach to policy design](Cours/ECN7059_2.pdf)
   3. [Mirrleesian approach to policy design in a static environment](Cours/ECN7059_3.pdf)
   4. [Mirrleesian approach to policy design in a dynamic environment](Cours/ECN7059_4.pdf)
-  5. Design of rules: theory(Cours/ECN7059_5.pdf)
-  6. Commitment vs discretion in the design of monetary rules(Cours/ECN7059_6.pdf)
-  7. Commitment vs discretion in the design of fiscal rules(Cours/ECN7059_7.pdf)
+  5. [Design of rules: theory](Cours/ECN7059_5.pdf)
+  6. [Commitment vs discretion in the design of monetary rules](Cours/ECN7059_6.pdf)
+  7. [Commitment vs discretion in the design of fiscal rules](Cours/ECN7059_7.pdf)
 
 Topics
 ------
