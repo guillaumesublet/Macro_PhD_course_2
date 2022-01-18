@@ -8,9 +8,10 @@ The course is divided in two parts. The first part covers the theory. The second
 
 Readings
 --------
+  - Collection of papers that vary form year to year.
   - (LS) Ljundqvist, L. et T. J. Sargent (2018), Recursive Macroeconomic Theory, 4th edition, MIT Press. 
   - (QE) T. J. Sargent et J. Stachurski, Quantitative Economics ([QuantEcon](https://python.quantecon.org)). 
-  - (G) Gali, J. (2015), Monetary Policy, Inflation and the Business Cycle, 2nd edition, Princeton University Press. 
+  - (G) Gali, J. (2015), Monetary Policy, Inflation and the Business Cycle, 2nd edition, Princeton University Press.
 
 Lectures
 --------
