@@ -31,4 +31,4 @@ Part I: Concepts and methods
 
 Part II: Topics
 ---------------
-Students choose three papers, two that they present and one that they replicate from a list of paper that varies from year to year.
+Students choose three papers, two that they present and one that they replicate from a list of papers which varies from year to year.
